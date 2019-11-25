@@ -1,0 +1,133 @@
+body{
+	margin:o;
+	padding:0;
+
+}
+.abc{
+	height: 30vhvh;
+	width: 100%;
+}
+.nav_bar{
+	width: 100%;
+	height: 10vh;
+	
+	border-bottom:2px solid black;  
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+li{
+	float: left;
+}
+li a{
+	display: block;
+	width: 60px;
+	
+	text-decoration: none;
+	padding:14px 18px;
+	text-align: center;
+}
+
+span{
+	padding-left: 22%;
+	font-size: 50px;
+}
+.abc2{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+	
+
+
+}
+
+li a{
+	display: block;
+	width: 60px;
+	
+	text-decoration: none;
+	padding:14px 20px;
+	text-align: center;
+}
+.abc3{
+	width: 100%;
+	height: 100vh;
+	background: ;
+	float: left;
+}
+.a{
+	width: 70%;
+	height: 100vh;
+	/*background: ;*/
+	float: left;
+}
+.b{
+	width: 30%;
+	height: 100vh;
+	/*background: ;*/
+	float: left;
+}
+.a1{
+	width: 50%;
+	height: 100vh;
+	float: left;
+}
+.a2{
+	width: 50%;
+	height: 100vh;
+	/*background: ;*/
+	float: left;
+}
+p{
+	padding: 10px 0px 0px 16px;
+	width: 400px;
+}
+.text{
+	font-size: 30px;
+	font-style: italic;
+}
+.image{
+	height: 30vh;
+	width: 400px;
+	padding: 20px;
+}
+.image img{
+	width: 100%;
+	
+}
+.image1{
+	height: 50vh;
+	width: 400px;
+}
+.image1 img{
+	width: 100%;
+	height: 50vh;
+	padding: 15px;
+}
+.text1{
+	font-size: 30px;
+	font-style: italic;
+	float: left;
+}
+.text3{
+	font-size: 50px;
+    text-align: center;
+    float: left;
+    padding-top: 20px;
+}
+.text4{
+	float: left;
+}
+.txt{
+	padding-top: 120px;
+}
+.box{
+	border-bottom:2px solid black;
+	border-top:2px solid black;
+	width: 100%;
+	height: 10vh;
+}
